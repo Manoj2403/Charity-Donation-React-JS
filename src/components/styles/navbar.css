@@ -1,0 +1,32 @@
+.sum{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    
+
+    .logo{
+        margin: 1rem;
+        font-size: 50px;
+        color: white;
+        font-weight: bolder;
+    }
+}
+
+.sum .item{
+    display: flex;
+    .ul{
+        display: flex;
+        margin: 25px;
+    }
+}
+
+.sum .item .ul li{
+    margin: 0 1rem;
+    text-decoration: none;
+}
+.sum .item .ul li a{
+    color: white;
+    text-decoration: none;
+}
+

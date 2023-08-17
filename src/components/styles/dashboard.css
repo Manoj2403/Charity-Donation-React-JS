@@ -1,0 +1,23 @@
+/* .container{
+    border-top-left-radius: 20px;
+} */
+.leftPanel{
+    width: 20%;
+    float: left;
+    
+    background-color: burlywood;
+    min-height: 990px;
+    border: 1px  solid black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.rightPanel{
+    width: 80%;
+    float: left;
+    min-height: 990px;
+    background-color: white;
+    border: 1px  solid black;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+    

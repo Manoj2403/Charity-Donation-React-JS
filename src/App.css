@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,200;1,300;1,400&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+  /* background-image: url('./components/assets/3.jpg'); */
+  background-image: url("./components/images/about.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
